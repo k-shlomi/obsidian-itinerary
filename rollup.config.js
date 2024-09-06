@@ -26,8 +26,6 @@ export default {
     typescript(),
     nodeResolve({ browser: true }),
     commonjs(),
-    css({
-      output: "styles.css",
-    }),
+    css({ output: "styles.css" }),
   ],
 };

@@ -15,7 +15,8 @@
       "dom",
       "scripthost",
       "es2019"
-    ]
+    ],
+    "types": ["@fullcalendar/luxon3"]
   },
   "include": [
     "**/*.ts"
